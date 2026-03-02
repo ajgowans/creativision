@@ -1,6 +1,6 @@
 # The MiSTer Manuals DB - VTech CreatiVision
 
-This is a database for the MiSTer project that downloads the English manuals in .pdf form for the Atari Jaguar to the docs folder, which can be loaded from the OSD within th core by selecting "Help".
+This is a database for the MiSTer project that downloads the English manuals in .pdf form for the VTech CreatiVision to the docs folder, which can be loaded from the OSD within th core by selecting "Help".
 
 To use it simply copy and paste the below to the bottom of your downloader.ini file (found at: /media/fat/downloader.ini )
 
